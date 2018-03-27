@@ -1,4 +1,4 @@
-# Postgres
+# Postgres -- Nicolas Yoteau et Sylvain Théodore
 Projet Postgres (Sujet 2)
 
 __Etape 1 :__  Installer une machine virutelle Ubuntu 64 bits disponible à l'addresse : *https://ubuntu-fr.org/telechargement*
