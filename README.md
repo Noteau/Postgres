@@ -10,7 +10,8 @@ Nous utilisons ensuite "GRANT ALL PRIVILEGES ON * . * TO 'appli_web'@'localhost'
 
 __Etape 4 :__ Toujours dans le terminal Mysql tapez "CREATE DATABASE appli_web;"
 
-__Etape 5 :__ Installer PhpMyAdmin avec la commande "sudo apt install phpmyadmin" et il faut sélectionner Apache 2 comme serveur HTTP en appuyant sur espace
+__Etape 5 :__ Installer PhpMyAdmin avec la commande : *sudo apt install phpmyadmin*. 
+Il faut sélectionner Apache 2 comme serveur HTTP en appuyant sur espace.
 
 __Etape 6 :__ Allez sur le site : http://www.generatedata.com/?lang=fr et creer de la données à votre guise pour le télécharger au format SQL et un type de base de données MySQL, ne pas oublier de décocher la case "Inclure une requete DROP TABLE" si votre table n'existe pas encore.
 
